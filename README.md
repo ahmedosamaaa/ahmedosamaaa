@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Akhbar-Elyom-Academy website](http://www.akhbaracademy.edu.eg/)
+- 🔭 I’m currently working on [Wood-Maker website](https://wood-maker.net/)
 
 - 🌱 I’m currently learning **Vue.js , Vuetify, JS**
 
-- 📫 How to reach me **ahmedosama12313@gmail.com**
+- 📫 How to reach me **ahmeddosama.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
