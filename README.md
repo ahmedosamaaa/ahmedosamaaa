@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Wood-Maker website](https://wood-maker.net/)
 
-- 🌱 I’m currently learning **Vue.js , Vuetify, JS**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **ahmeddosama.dev@gmail.com**
 
