@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [El-Tawfik website](https://eltawfek.com/)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **ahmeddosama.dev@gmail.com**
 
